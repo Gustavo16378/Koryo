@@ -41,10 +41,10 @@
                     Atlas
                 </a>
                 <a href="#programs" class="block px-4 py-3 text-koryo-secondary-text hover:text-koryo-principal-text hover:bg-white/5">
-                    Programs
+                    Programas
                 </a>
                 <a href="#books" class="block px-4 py-3 text-koryo-secondary-text hover:text-koryo-principal-text hover:bg-white/5">
-                    Books
+                    Livros
                 </a>
             </div>
         </div>
@@ -129,10 +129,10 @@
             Atlas
         </a>
         <a href="#programs" @click="$store.menu.fechar()" class="block pl-4 text-koryo-secondary-text text-lg py-3">
-            Programs
+            Programas
         </a>
         <a href="#books" @click="$store.menu.fechar()" class="block pl-4 text-koryo-secondary-text text-lg py-3">
-            Books
+            Livros
         </a>
     </div>
 

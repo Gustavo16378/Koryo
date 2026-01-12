@@ -64,6 +64,24 @@ Alpine.data('sectionSpy', () => ({
   }
 }));
 
+Alpine.data('simpleFadeCarousel', ({ interval = 5000, count = 3 } = {}) => ({
+  interval,
+  count,
+  active: 0,
+  timer: null,
+
+  init() {
+    this.timer = setInterval(() => {
+      this.active = (this.active + 1) % this.count;
+    }, this.interval);
+  },
+
+  isActive(i) {
+    return this.active === i;
+  },
+}));
+
+
 window.Alpine = Alpine;
 Alpine.start();
 
