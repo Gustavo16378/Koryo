@@ -1,5 +1,8 @@
 @import 'tailwindcss';
-@plugin "tailwindcss-animated";
+@import 'tailwindcss-animated';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
 @source '../../storage/framework/views/*.php';
@@ -9,7 +12,7 @@
 @theme {
     /* Cores extraídas do seu design */
     --color-koryo-dark: #11221A; /* Verde bem escuro do topo */
-    --color-koryo-green: #A3C847; /* Verde claro do ícone/detalhes */
+    --color-koryo-green : #A3C847; /* Verde claro do ícone/detalhes */
     --color-koryo-principal-text: #E6F1ED; /* cor para textos */
     --color-koryo-secondary-text: #8FA6A0; /* cor para textos secundários */
     --color-koryo-card-claro: #1F3128; /* cor de fundo dos cards com fundo claro */
@@ -17,3 +20,30 @@
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
+/* No seu arquivo CSS/Tailwind */
+
+
+@layer components {
+    .light-bg {
+        background-image: 
+            linear-gradient(rgba(31,60,53,0.80), rgba(31,60,53,0.80)),
+            var(--bg-image);
+        background-size: cover;
+        background-position: center;
+        background-blend-mode: multiply;
+    }
+
+    .dark-bg {
+        background-image: 
+            linear-gradient(rgba(17,34,26,0.85), rgba(17,34,26,0.85)),
+            var(--bg-image);
+        background-size: cover;
+        background-position: center;
+        background-blend-mode: multiply;
+    }
+}
+
+[x-cloak] {
+    display: none ! important;
+}
+
