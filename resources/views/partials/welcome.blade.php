@@ -63,7 +63,7 @@
                         class="absolute inset-0 w-full h-full object-cover transition-opacity duration-700"
                         :class="isActive(1) ? 'opacity-100' : 'opacity-0'">
 
-                    <img src="{{ asset('img/telas_carro.png') }}"
+                    <img src="{{ asset('img/Telas.jpg') }}"
                         class="absolute inset-0 w-full h-full object-cover transition-opacity duration-700"
                         :class="isActive(2) ? 'opacity-100' : 'opacity-0'">
 

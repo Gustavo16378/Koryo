@@ -25,7 +25,7 @@
                     {{-- Imagem (fica ao lado no desktop) --}}
                     <div class="w-full md:w-1/3">
                         <div class="rounded-md overflow-hidden bg-black/10">
-                            <img src="{{ asset('img/Telas.png') }}" alt="Exemplo de uso em múltiplos dispositivos" class="w-full h-auto object-cover">
+                            <img src="{{ asset('img/Telas.jpg') }}" alt="Exemplo de uso em múltiplos dispositivos" class="w-full h-auto object-cover">
                         </div>
                     </div>
                 </div>

@@ -3,7 +3,7 @@
 
     {{-- Logo --}}
     <div class="flex items-center shrink-0">
-        <img src="{{ asset('img/LogoTest.png') }}" alt="Logo" class="h-12 md:h-16 w-auto object-contain rounded-sm">
+        <img src="{{ asset('img/Logo.jpg') }}" alt="Logo" class="h-12 md:h-16 w-auto object-contain rounded-sm">
     </div>
 
     {{-- Desktop Navigation --}}
