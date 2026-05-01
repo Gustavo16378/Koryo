@@ -67,7 +67,7 @@
                         </div>
 
                         {{-- Botão Acessar Link --}}
-                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-koryo-dark font-bold px-12 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-lg w-full md:w-auto">
+                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-brand-dark font-bold px-12 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-lg w-full md:w-auto">
                             Acessar Link
                         </button>
                     </div>
@@ -138,7 +138,7 @@
                         </div>
 
                         {{-- Botão Acessar Link --}}
-                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-koryo-dark font-bold px-12 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-lg w-full md:w-auto">
+                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-brand-dark font-bold px-12 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-lg w-full md:w-auto">
                             Acessar Link
                         </button>
                     </div>
@@ -208,7 +208,7 @@
                         </div>
 
                         {{-- Botão Acessar Link --}}
-                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-koryo-dark font-bold px-12 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-lg w-full md:w-auto">
+                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-brand-dark font-bold px-12 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-lg w-full md:w-auto">
                             Acessar Link
                         </button>
                     </div>
@@ -363,7 +363,7 @@
                         </div>
 
                         {{-- Botão Acessar Link --}}
-                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-koryo-dark font-bold px-12 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-lg w-full md:w-auto">
+                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-brand-dark font-bold px-12 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-lg w-full md:w-auto">
                             Acessar Link
                         </button>
                     </div>

@@ -20,15 +20,15 @@
             {{-- Container Principal - Mobile: vertical | Desktop: horizontal com linha vertical --}}
             <div class="flex flex-col md:flex-row gap-0 items-stretch">
 
-                {{-- Coluna Esquerda: KoryoSoft_CAD4 --}}
+                {{-- Coluna Esquerda: Software_CAD4 --}}
                 <div class="w-full md:w-1/2 p-6 md:p-8 flex flex-col gap-6">
                     <h3 class="text-white text-2xl md:text-3xl font-semibold">
-                        KoryoSoft_CAD4
+                        Software_CAD4
                     </h3>
 
                     <div class="space-y-4 text-gray-200 text-base md:text-lg leading-relaxed">
-                        <p>Koryosoft_CAD4 é a versão atualizada de koryosoft_CAD. Foi incluído os principais pontos EXTRAS.</p>
-                        <p>Koryosoft_CAD4 é um software para auxiliar os acupunturistas. Poderá cadastrar pacientes, criar fichas de atendimentos e agendar seus compromissos.</p>
+                        <p>Software_CAD4 é a versão atualizada de software_CAD. Foi incluído os principais pontos EXTRAS.</p>
+                        <p>Software_CAD4 é um software para auxiliar os acupunturistas. Poderá cadastrar pacientes, criar fichas de atendimentos e agendar seus compromissos.</p>
                         <p>Identificar a localização dos pontos e as funções de cada ponto de acupuntura.</p>
                         <p>Elaborar e buscar as combinações de pontos e imprimir para tratar seus pacientes.</p>
                         <p>Permite editar o banco de dados com novas funções para cada ponto assim, personalize e potencializa a capacidade de combinações de pontos.</p>
@@ -110,7 +110,7 @@
 
                     {{-- Botão Acessar Link --}}
                     <div class="mt-8 flex justify-center md:justify-end">
-                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-koryo-dark font-bold px-8 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-base">
+                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-brand-dark font-bold px-8 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-base">
                             Acessar Link
                         </button>
                     </div>
@@ -122,7 +122,7 @@
 
     </div>
 </section>
-{{-- Seção Koryosoft_HAND4 --}}
+{{-- Seção Software_HAND4 --}}
 <section
     class="relative min-h-screen flex flex-col justify-center items-center py-16 px-0 overflow-hidden dark-bg"
     style="--bg-image: url('{{ asset('img/textura.png') }}');">
@@ -136,17 +136,17 @@
             {{-- Container Principal - Mobile: vertical | Desktop: horizontal com linha vertical --}}
             <div class="flex flex-col md:flex-row gap-0 items-stretch">
 
-                {{-- Coluna Esquerda: Koryosoft_HAND4 --}}
+                {{-- Coluna Esquerda: Software_HAND4 --}}
                 <div class="w-full md:w-1/2 p-6 md:p-8 flex flex-col gap-6">
                     <h3 class="text-white text-2xl md:text-3xl font-semibold">
-                        Koryosoft_HAND4
+                        Software_HAND4
                     </h3>
 
                     <div class="space-y-4 text-gray-200 text-base md:text-lg leading-relaxed">
-                        <p>Koryosoft_HAND4 é um software de acupuntura coreana da mão. Pode ser utilizado pelos profissionais e também, pelo público em geral visto que sua utilização é de muito simples.</p>
-                        <p>Utilizando Koryosoft_HAND4 você identificada a localização exata e as funções de cada ponto de acupuntura coreana.</p>
-                        <p>Com o Koryosoft_HAND4 você elabora e busca as combinações de pontos e imprimir para tratar seus pacientes.</p>
-                        <p>Koryosoft_HAND4 permite editar o banco de dados com novas funções para cada ponto assim, personalize e potencializa a capacidade do sistema.</p>
+                        <p>Software_HAND4 é um software de acupuntura coreana da mão. Pode ser utilizado pelos profissionais e também, pelo público em geral visto que sua utilização é de muito simples.</p>
+                        <p>Utilizando Software_HAND4 você identificada a localização exata e as funções de cada ponto de acupuntura coreana.</p>
+                        <p>Com o Software_HAND4 você elabora e busca as combinações de pontos e imprimir para tratar seus pacientes.</p>
+                        <p>Software_HAND4 permite editar o banco de dados com novas funções para cada ponto assim, personalize e potencializa a capacidade do sistema.</p>
                     </div>
 
                     {{-- Imagem/Placeholder --}}
@@ -225,7 +225,7 @@
 
                     {{-- Botão Acessar Link --}}
                     <div class="mt-8 flex justify-center md:justify-end">
-                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-koryo-dark font-bold px-8 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-base">
+                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-brand-dark font-bold px-8 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-base">
                             Acessar Link
                         </button>
                     </div>
@@ -237,7 +237,7 @@
 
     </div>
 </section>
-{{-- Seção Koryosoft_PET --}}
+{{-- Seção Software_PET --}}
 <section class="relative min-h-screen flex flex-col justify-center items-center py-16 px-0 overflow-hidden light-bg"
     style="--bg-image: url('{{ asset('img/textura.png') }}');">
 
@@ -250,14 +250,14 @@
             {{-- Container Principal - Mobile: vertical | Desktop: horizontal com linha vertical --}}
             <div class="flex flex-col md:flex-row gap-0 items-stretch">
 
-                {{-- Coluna Esquerda: Koryosoft_PET --}}
+                {{-- Coluna Esquerda: Software_PET --}}
                 <div class="w-full md:w-1/2 p-6 md:p-8 flex flex-col gap-6">
                     <h3 class="text-white text-2xl md:text-3xl font-semibold">
-                        Koryosoft_PET
+                        Software_PET
                     </h3>
 
                     <div class="space-y-4 text-gray-200 text-base md:text-lg leading-relaxed">
-                        <p>Koryosoft_PET é um software inédito no Brasil para acupunturistas veterinários.</p>
+                        <p>Software_PET é um software inédito no Brasil para acupunturistas veterinários.</p>
                         <p>Pesquisa a localização e as funções de cada ponto de acupuntura. Compare os pontos entre Cão, Gato e Humano.</p>
                         <p>Busque e elabore as combinações de pontos para tratar seus pacientes.</p>
                         <p>Edite o alimento o banco de dados com novas funções para cada ponto.</p>
@@ -332,10 +332,10 @@
 
                     {{-- Botões: Acessar Vídeo e Acessar Link --}}
                     <div class="mt-8 flex flex-col md:flex-row gap-4 justify-center md:justify-end">
-                        <button class="bg-[#A3C847] hover:bg-[#96b03a] text-koryo-dark font-bold px-8 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-base">
+                        <button class="bg-[#A3C847] hover:bg-[#96b03a] text-brand-dark font-bold px-8 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-base">
                             Acessar Vídeo
                         </button>
-                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-koryo-dark font-bold px-8 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-base">
+                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-brand-dark font-bold px-8 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-base">
                             Acessar Link
                         </button>
                     </div>
@@ -347,7 +347,7 @@
 
     </div>
 </section>
-{{-- Seção Koryosoft_Aurículo --}}
+{{-- Seção Software_Aurículo --}}
 <section
     class="relative min-h-screen flex flex-col justify-center items-center py-16 px-0 overflow-hidden dark-bg"
     style="--bg-image: url('{{ asset('img/textura.png') }}');">
@@ -361,14 +361,14 @@
             {{-- Container Principal - Mobile: vertical | Desktop: horizontal com linha vertical --}}
             <div class="flex flex-col md:flex-row gap-0 items-stretch">
 
-                {{-- Coluna Esquerda: Koryosoft_Aurículo --}}
+                {{-- Coluna Esquerda: Software_Aurículo --}}
                 <div class="w-full md:w-1/2 p-6 md:p-8 flex flex-col gap-6">
                     <h3 class="text-white text-2xl md:text-3xl font-semibold">
-                        Koryosoft_Aurículo
+                        Software_Aurículo
                     </h3>
 
                     <div class="space-y-4 text-gray-200 text-base md:text-lg leading-relaxed">
-                        <p>O Koryosoft_AURÎCULO é um software de acupuntura auricular. Foi desenvolvido tanto para expedientes quanto para iniciantes em acupuntura auricular.</p>
+                        <p>O Software_AURÍCULO é um software de acupuntura auricular. Foi desenvolvido tanto para expedientes quanto para iniciantes em acupuntura auricular.</p>
                         <p>Poderá cadastrar pacientes, criar fichas de atendimento e agendar seus compromissos.</p>
                         <p>Identifica a localização exata e as funções de cada ponto de acupuntura.</p>
                         <p>Pode elaborar e buscar as combinações de pontos e imprimir para tratar seus pacientes.</p>
@@ -455,10 +455,10 @@
 
                     {{-- Botões: Acessar Vídeo e Acessar Link --}}
                     <div class="mt-8 flex flex-col md:flex-row gap-4 justify-center md:justify-end">
-                        <button class="bg-[#A3C847] hover:bg-[#96b03a] text-koryo-dark font-bold px-8 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-base">
+                        <button class="bg-[#A3C847] hover:bg-[#96b03a] text-brand-dark font-bold px-8 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-base">
                             Acessar Vídeo
                         </button>
-                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-koryo-dark font-bold px-8 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-base">
+                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-brand-dark font-bold px-8 py-3 rounded shadow-lg transition-transform transform hover:scale-105 text-base">
                             Acessar Link
                         </button>
                     </div>

@@ -54,11 +54,11 @@
                     </p>
 
                     <p class="text-gray-300 text-base md:text-lg leading-relaxed font-light">
-                        Esse foi o principal objetivo para lançar o site KORYO.
+                        Esse foi o principal objetivo para lançar este portal.
                     </p>
 
                     <p class="text-gray-300 text-base md:text-lg leading-relaxed font-light">
-                        O KORYO é o nome de uma das dinastias antigas da Coréia onde se destacou as terapias naturais. Desejamos que este site KORYO se destaque assim como foi na história da Coréia, sendo um grande aliado para os profissionais da área da saúde em qualquer momento em qualquer lugar.
+                        Desejamos que este portal se destaque como um grande aliado para os profissionais da área da saúde em qualquer momento em qualquer lugar.
                     </p>
                 </div>
 

@@ -13,10 +13,10 @@
 
         {{-- Conteúdo Principal --}}
         <div class="relative z-10 max-w-4xl mx-auto mt-16 animate-fade-up animate-once animate-duration-[600ms] animate-delay-[50ms] animate-ease-in animate-normal animate-fill-forwards">
-            <h1 class="text-koryo-principal-text text-5xl md:text-7xl font-semibold mb-6 drop-shadow-xl px-4 ">
+            <h1 class="text-brand-principal-text text-5xl md:text-7xl font-semibold mb-6 drop-shadow-xl px-4 ">
                 O Futuro da Acupuntura
             </h1>
-            <p class="text-koryo-secondary-text text-xl md:text-xl font-light max-w-2xl mx-auto leading-relaxed drop-shadow-lg px-4">
+            <p class="text-brand-secondary-text text-xl md:text-xl font-light max-w-2xl mx-auto leading-relaxed drop-shadow-lg px-4">
                 Unindo a sabedoria ancestral dos meridianos com a precisão absoluta da tecnologia moderna.
             </p>
         </div>
