@@ -107,11 +107,11 @@
                         </div>
                     </div>
 
-                    {{-- Card 3: 1 ano + Koryosoft_MTC --}}
+                    {{-- Card 3: 1 ano + Software_MTC --}}
                     <div class="rounded-2xl p-8 flex flex-col border-2 border-[#A3C847] hover:bg-[#2BD885]/5 transition min-h-[320px]"
                         style="background-color: rgba(31, 49, 40, 1); box-shadow: 0px 0px 3px 2px rgba(163, 200, 71, 1);">
                         <h4 class="text-white text-3xl md:text-4xl font-semibold text-center mb-4">
-                            1 ano online<br>+<br>Koryosoft_MTC
+                            1 ano online<br>+<br>Software_MTC
                         </h4>
                         {{-- Linha abaixo do título --}}
                         <div class="min-w-10 mb-6 -mx-8 ">
@@ -119,7 +119,7 @@
                         </div>
 
                         <p class="text-white text-center text-base md:text-lg my-auto flex-grow leading-relaxed">
-                            Acesso completo ao<br>conteúdo e ao<br>Koryosoft_MTCPOR<br> por 365 Dias!!!
+                            Acesso completo ao<br>conteúdo e ao<br>Software_MTC<br> por 365 Dias!!!
                         </p>
                         <div class="text-center mt-6">
                             <button class="bg-[#2BD885] hover:bg-[#25b870] text-[#1F3C35] font-bold py-2.5 px-10 rounded transition-transform transform hover:scale-105 text-sm uppercase tracking-wider w-full"

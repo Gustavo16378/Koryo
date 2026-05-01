@@ -29,14 +29,14 @@
                 </h2>
 
                 <p class="text-gray-300 text-lg leading-relaxed font-light pl-6">
-                    O portal Koryo foi preparado para auxiliar profissionais da área da saúde.
+                    O portal foi preparado para auxiliar profissionais da área da saúde.
                     Uma ferramenta online que estava faltando para auxiliar os profissionais de acupuntura.
                     Acesse onde quer que esteja via Notebooks, Smartphones, Tablets ou iPads...
                 </p>
 
                 <div class="pl-6">
                     <button
-                        class="bg-[#2BD885] hover:bg-[#25b870] text-koryo-dark font-bold py-3 px-8 rounded
+                        class="bg-[#2BD885] hover:bg-[#25b870] text-brand-dark font-bold py-3 px-8 rounded
                                shadow-lg transition-transform hover:scale-105 uppercase tracking-wider">
                         Saiba Mais
                     </button>
@@ -99,7 +99,7 @@
                         </p>
 
                         <p class="text-white text-6xl font-bold leading-tight drop-shadow-md">
-                            KoryoSoft
+                            Online
                         </p>
 
                     </div>

@@ -48,7 +48,7 @@
                     <h3 class="text-white text-3xl md:text-4xl font-semibold mb-3 md:flex justify-center flex justify-center">Como Funciona</h3>
                     <p class="text-gray-200 text-base md:text-lg leading-relaxed mb-6 md:flex justify-center flex justify-center items-center mx-12">Escolha um dos produtos acima, selecione o plano desejado e comece a usar o sistema imediatamente.</p>
                     <div class="flex justify-center">
-                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-koryo-dark font-semibold px-6 py-3 rounded shadow-md transition">
+                        <button class="bg-[#2BD885] hover:bg-[#25b870] text-brand-dark font-semibold px-6 py-3 rounded shadow-md transition">
                             Saiba Mais
                         </button>
                     </div>
